@@ -46,6 +46,6 @@ Adjust the parameters of your chosen algorithm to improve performance. Sometimes
 These are just high-level steps – ML is as complicated as you choose! That said, by understanding the basic process of developing ML models, you gain a solid foundation for further learning.
 
 
-[refrence : https://centricconsulting.com](https://centricconsulting.com/blog/machine-learning-a-quick-introduction-and-five-core-steps/)
+[reference : https://centricconsulting.com](https://centricconsulting.com/blog/machine-learning-a-quick-introduction-and-five-core-steps/)
 
 
